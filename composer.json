@@ -1,0 +1,10 @@
+{
+    "name": "dev_3/jato",
+    "description": "Package to get jato data",
+    "autoload": {
+        "psr-4": {
+            "Dev3\\Jato\\": "src/"
+        }
+    },
+    "require": {}
+}
